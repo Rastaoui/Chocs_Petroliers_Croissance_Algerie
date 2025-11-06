@@ -103,38 +103,6 @@ install.packages(c(
 ))
 ```
 
-### Exécution
-
-#### Option 1 : Script complet
-```r
-# Cloner le dépôt
-git clone https://github.com/Rastaoui/Chocs_Petroliers_Croissance_Algerie.git
-
-# Ouvrir RStudio et exécuter
-source("code/analyse_complete.Rmd")
-```
-
-#### Option 2 : Étape par étape
-```r
-# 1. Préparation des données
-source("code/01_preparation_donnees.R")
-
-# 2. Tests de stationnarité
-source("code/02_tests_stationnarite.R")
-
-# 3. Modèle ARDL
-source("code/03_modele_ARDL.R")
-
-# 4. Modèle NARDL
-source("code/04_modele_NARDL.R")
-
-# 5. Modèle QARDL
-source("code/05_modele_QARDL.R")
-
-```
-
----
-
 ## 📈 Résultats et Visualisations
 
 ### Graphiques Disponibles
