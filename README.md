@@ -65,7 +65,7 @@ Ces résultats contre-intuitifs s'expliquent par :
 | **ARDL** | Relations court/long terme | `ARDL` |
 | **NARDL** | Effets asymétriques | `ARDL` |
 | **QARDL** | Hétérogénéité par quantiles | `quantreg` |
-| **Granger** | Tests de causalité | `lmtest`, `vars` |
+
 
 ### Tests de Stationnarité
 
@@ -131,8 +131,6 @@ source("code/04_modele_NARDL.R")
 # 5. Modèle QARDL
 source("code/05_modele_QARDL.R")
 
-# 6. Tests de causalité
-source("code/06_tests_causalite.R")
 ```
 
 ---
@@ -160,7 +158,6 @@ source("code/06_tests_causalite.R")
 
 - **[Méthodologie détaillée](docs/methodologie.md)** : Explication des modèles
 - **[Interprétation des résultats](docs/interpretation_resultats.md)** : Analyse approfondie
-- **[FAQ](docs/faq.md)** : Questions fréquentes
 
 ---
 
