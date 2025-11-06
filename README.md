@@ -161,18 +161,6 @@ source("code/05_modele_QARDL.R")
 
 ---
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! Pour contribuer :
-
-1. Fork le projet
-2. Crée une branche (`git checkout -b feature/amelioration`)
-3. Commit tes changements (`git commit -m 'Ajout fonctionnalité X'`)
-4. Push vers la branche (`git push origin feature/amelioration`)
-5. Ouvre une Pull Request
-
----
-
 ## 📄 Licence
 
 Ce projet est sous licence **MIT** - voir le fichier [LICENSE](LICENSE) pour plus de détails.
