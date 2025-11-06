@@ -113,13 +113,6 @@ install.packages(c(
 | **NARDL** | Effets asymétriques | `results/figures/nardl_asymetrie.png` |
 | **QARDL** | Effets par quantile | `results/figures/qardl_quantiles.png` |
 
-
-### Tableaux de Résultats
-
-- `results/tables/summary_ardl.csv` : Summary ARDL
-- `results/tables/summary_nardl.csv` : Summary NARDL
-- `results/tables/summary_qardl.csv` : Summary QARDL
-
 ---
 
 ## 📚 Documentation
