@@ -2,7 +2,7 @@
 Étude sur l'impact des chocs pétroliers sur la croissance économique en Algérie
 # 🛢️ Impact des Chocs Pétroliers sur la Croissance Économique en Algérie
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Licence: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![R Version](https://img.shields.io/badge/R-4.3%2B-blue)](https://www.r-project.org/)
 [![Status](https://img.shields.io/badge/Status-Completed-success)](https://github.com/TON_USERNAME/Chocs_Petroliers_Croissance_Algerie)
 
