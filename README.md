@@ -93,7 +93,7 @@ Ces résultats contre-intuitifs s'expliquent par :
 # Installer les packages nécessaires
 install.packages(c(
   "tidyverse",      # Manipulation de données
-  "ARDL",           # Modèles ARDL/NARDL
+  "ARDL", "nardl" ,  # Modèles ARDL/NARDL
   "quantreg",       # Régression quantile (QARDL)
   "tseries",        # Tests de stationnarité
   "lmtest",         # Tests de diagnostic
